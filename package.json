@@ -1,0 +1,29 @@
+{
+  "name": "playwright-ts-e2e-tests",
+  "version": "1.0.0",
+  "description": "Playwright e2e tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berpress/playwright-ts-e2e-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berpress/playwright-ts-e2e-tests/issues"
+  },
+  "homepage": "https://github.com/berpress/playwright-ts-e2e-tests#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.17.1",
+    "@typescript-eslint/eslint-plugin": "^5.5.0",
+    "@typescript-eslint/parser": "^5.5.0",
+    "eslint": "^8.4.0",
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "faker": "^5.5.3"
+  }
+}
